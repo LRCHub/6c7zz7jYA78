@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "約束事",
+  "base_artist": "やさしいひとたち",
+  "createdAt": "2025-12-13T12:22:57.570534Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "約束事",
+      "artist": "やさしいひとたち",
+      "has_synced": false,
+      "path": "select/pl_01_約束事_やさしいひとたち.txt"
+    }
+  ]
+}
